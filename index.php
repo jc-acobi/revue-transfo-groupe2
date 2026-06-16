@@ -51,7 +51,7 @@
 </head>
 <body>
   <div class="container">
-    <div class="badge">Notre service</div>
+    <div class="badge">Notre super service</div>
     <h1>L'équipe qui <span>simplifie</span> votre quotidien.</h1>
     <p>Nous accompagnons les collaborateurs au jour le jour&nbsp;: conseils, outils et coups de main, quand vous en avez besoin.</p>
   </div>
