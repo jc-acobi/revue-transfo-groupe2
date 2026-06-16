@@ -54,6 +54,11 @@
     <div class="badge">Atelier vibe coding</div>
     <h1>Bienvenue, <span>Groupe 2</span>.</h1>
     <p>Votre page est prête. Décrivez à votre assistant ce que vous voulez créer&nbsp;— et regardez-la prendre vie ici.</p>
+    <ul class="domaines">
+      <li>Accompagnement des collaborateurs</li>
+      <li>Outils internes sur mesure</li>
+      <li>Support et assistance au quotidien</li>
+    </ul>
   </div>
 </body>
 </html>
