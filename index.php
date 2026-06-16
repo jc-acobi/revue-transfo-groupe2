@@ -51,9 +51,9 @@
 </head>
 <body>
   <div class="container">
-    <div class="badge">Atelier vibe coding</div>
-    <h1>Bienvenue, <span>Groupe 2</span>.</h1>
-    <p>Votre page est prête. Décrivez à votre assistant ce que vous voulez créer&nbsp;— et regardez-la prendre vie ici.</p>
+    <div class="badge">Notre service</div>
+    <h1>L'équipe qui <span>simplifie</span> votre quotidien.</h1>
+    <p>Nous accompagnons les collaborateurs au jour le jour&nbsp;: conseils, outils et coups de main, quand vous en avez besoin.</p>
   </div>
 </body>
 </html>
